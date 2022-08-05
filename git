@@ -1,0 +1,52 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libffi-dev is already the newest version (3.3-4).
+libffi-dev set to manually installed.
+make is already the newest version (4.2.1-1.2).
+make set to manually installed.
+tk-dev is already the newest version (8.6.9+1).
+tk-dev set to manually installed.
+build-essential is already the newest version (12.8ubuntu1.1).
+curl is already the newest version (7.68.0-1ubuntu2.12).
+liblzma-dev is already the newest version (5.2.4-1ubuntu1.1).
+liblzma-dev set to manually installed.
+libsqlite3-dev is already the newest version (3.31.1-4ubuntu0.3).
+libsqlite3-dev set to manually installed.
+libssl-dev is already the newest version (1.1.1f-1ubuntu2.16).
+libssl-dev set to manually installed.
+wget is already the newest version (1.20.3-1ubuntu2).
+wget set to manually installed.
+xz-utils is already the newest version (5.2.4-1ubuntu1.1).
+xz-utils set to manually installed.
+zlib1g-dev is already the newest version (1:1.2.11.dfsg-2ubuntu1.3).
+zlib1g-dev set to manually installed.
+The following additional packages will be installed:
+  libclang-cpp10 libncurses-dev libpfm4 libz3-4 libz3-dev llvm-10 llvm-10-dev
+  llvm-10-runtime llvm-10-tools llvm-runtime python-cffi-backend
+  python-cryptography python-enum34 python-ipaddress python-six
+Suggested packages:
+  ncurses-doc readline-doc llvm-10-doc python-cryptography-doc
+  python-cryptography-vectors python-enum34-doc python-openssl-doc
+  python-openssl-dbg
+The following NEW packages will be installed:
+  libclang-cpp10 libncurses-dev libncurses5-dev libpfm4 libreadline-dev
+  libz3-4 libz3-dev llvm llvm-10 llvm-10-dev llvm-10-runtime llvm-10-tools
+  llvm-runtime python-cffi-backend python-cryptography python-enum34
+  python-ipaddress python-openssl python-six
+0 upgraded, 19 newly installed, 0 to remove and 67 not upgraded.
+Need to get 49.7 MB of archives.
+After this operation, 303 MB of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libclang-cpp10 amd64 1:10.0.0-4ubuntu1 [9,944 kB]
+Get:2 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libncurses-dev amd64 6.2-0ubuntu2 [339 kB]
+Get:3 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libncurses5-dev amd64 6.2-0ubuntu2 [976 B]
+Get:4 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libreadline-dev amd64 8.0-4 [141 kB]
+Get:5 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 llvm-10-runtime amd64 1:10.0.0-4ubuntu1 [180 kB]
+Get:6 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 llvm-runtime amd64 1:10.0-50~exp1 [2,916 B]
+Get:7 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libpfm4 amd64 4.10.1+git20-g7700f49-2 [266 kB]
+Get:8 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 llvm-10 amd64 1:10.0.0-4ubuntu1 [5,214 kB]
+Get:9 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 llvm amd64 1:10.0-50~exp1 [3,880 B]
+Get:10 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 llvm-10-tools amd64 1:10.0.0-4ubuntu1 [317 kB]
+Get:11 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libz3-4 amd64 4.8.7-4build1 [6,792 kB]
+Get:12 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 libz3-dev amd64 4.8.7-4build1 [67.5 kB]
+Get:13 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 llvm-10-dev amd64 1:10.0.0-4ubuntu1 [26.0 MB]
